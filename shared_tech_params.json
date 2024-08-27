@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAx": {
+            "name": "chart",
+            "url": "//meta-q.cdn.bubble.io/f1724682786722x377543745256855740/fc3noor2%282%29.png"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 4,
+        "use_jquery": true
+    }
+}

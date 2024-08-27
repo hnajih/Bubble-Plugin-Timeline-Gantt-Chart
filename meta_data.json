@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "chart",
+        "1": "data (things)",
+        "2": "mobile",
+        "3": "productivity",
+        "4": "analytics"
+    },
+    "data_tracked": false,
+    "demo_page": "https://apex-charts-79431.bubbleapps.io/version-test/timeline?debug_mode=true",
+    "description": "customizable Timeline / Gantt charts with advanced features for your application\n\nApexCharts is a modern charting library that helps developers to create beautiful and interactive visualizations for web pages\n\nTimeline and Gantt Chart ApexCharts\n\nhttps://apex-charts-79431.bubbleapps.io/version-test/timeline?debug_mode=true\n",
+    "image": "//meta-q.cdn.bubble.io/f1724682649941x588456626032011400/New%20Project%281%29.png",
+    "license": "open_source",
+    "name": "Timeline / Gantt Chart"
+}
